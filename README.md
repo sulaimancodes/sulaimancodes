@@ -12,15 +12,15 @@ Programmer | Content Creator | Learner
 <p align="center"> <img src="dev-working.gif" alt="sulaimancodes" width="500" height="333"/> </p>
 <p align="center">
 - 🔭 I’m currently working as **Software Engineer**
-
+<p align="center">
 - 🌱 I’m currently learning **BlockChain**
-
+<p align="center">
 - 👯 I’m looking to collaborate on **Open Source**
-
+<p align="center">
 - 💬 Ask me about **Anything**
-
+<p align="center">
 - 📫 How to reach me **msulaiman729@gmail.com**
-
+<p align="center">
 - ⚡ Fun fact **I can provide you cookies for free to eat 🍪😂**
 </p>
 ### Connect with me:
