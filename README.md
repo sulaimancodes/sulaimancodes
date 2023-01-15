@@ -23,11 +23,9 @@ Programmer | Content Creator | Learner
 <p align="center">
 - ⚡ Fun fact **I can provide you cookies for free to eat 🍪😂**
 </p>
-### Connect with me:
 
 
 ### 🛠 &nbsp;Tech Stack
-<p align="center">
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
@@ -41,7 +39,6 @@ Programmer | Content Creator | Learner
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-  </p>
 <br />
 <br />
 
