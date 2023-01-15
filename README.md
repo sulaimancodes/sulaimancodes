@@ -19,7 +19,7 @@ Programmer | Enthusiast | Learner
 <p align="center">
 - 💬 Ask me about **Anything**
 <p align="center">
-- 📫 How to reach me **msulaiman729@gmail.com**
+  - 📫 How to reach me **<a href="mailto:msulaiman729@gmail.com>msulaiman729@gmail.com</a>**
 <p align="center">
 - ⚡ Fun fact **I can provide you cookies for free to eat 🍪😂**
 </p>
