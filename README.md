@@ -9,7 +9,7 @@
 Programmer | Content Creator | Learner
 
 ?></h3>
-<p align="center"> <img src="dev-working.gif" alt="sulaimancodes"/> </p>
+<p align="center"> <img src="dev-working.gif" alt="sulaimancodes" width="500" height="333"/> </p>
 
 - 🔭 I’m currently working on **Software Engineer**
 
