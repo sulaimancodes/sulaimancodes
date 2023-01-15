@@ -1,4 +1,8 @@
-<h1 align="center">Hi <img src="https://github.com/sulaimancodes/sulaimancodes/blob/main/Wave.gif" height="55px" width="55px">, I'm Sulaiman Majeed </h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Sulaiman....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 <h3 align="center">¯\_(ツ)_/¯
 
 Programmer | Content Creator | Learner
