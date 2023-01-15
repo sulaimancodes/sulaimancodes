@@ -11,7 +11,7 @@ Programmer | Content Creator | Learner
 ?></h3>
 <p align="center"> <img src="dev-working.gif" alt="sulaimancodes" width="500" height="333"/> </p>
 <p align="center">
-- 🔭 I’m currently working on **Software Engineer**
+- 🔭 I’m currently working as **Software Engineer**
 
 - 🌱 I’m currently learning **BlockChain**
 
