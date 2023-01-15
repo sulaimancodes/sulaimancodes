@@ -10,7 +10,7 @@ Programmer | Content Creator | Learner
 
 ?></h3>
 <p align="center"> <img src="dev-working.gif" alt="sulaimancodes" width="500" height="333"/> </p>
-
+<p align="center">
 - 🔭 I’m currently working on **Software Engineer**
 
 - 🌱 I’m currently learning **BlockChain**
@@ -22,7 +22,7 @@ Programmer | Content Creator | Learner
 - 📫 How to reach me **msulaiman729@gmail.com**
 
 - ⚡ Fun fact **I can provide you cookies for free to eat 🍪😂**
-
+</p>
 ### Connect with me:
 
 [<img align="center" alt="softtechgenics.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
