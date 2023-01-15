@@ -6,7 +6,7 @@
 </h1>
 <h3 align="center">¯\_(ツ)_/¯
 
-Programmer | Content Creator | Learner
+Programmer | Enthusiast | Learner
 
 ?></h3>
 <p align="center"> <img src="dev-working.gif" alt="sulaimancodes" width="500" height="333"/> </p>
