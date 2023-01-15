@@ -9,9 +9,9 @@
 Programmer | Content Creator | Learner
 
 ?></h3>
-<p align="center"> <img src="dev-working.gif" alt="MahbubDev"/> </p>
+<p align="center"> <img src="dev-working.gif" alt="sulaimancodes"/> </p>
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **Software Engineer**
 
 - 🌱 I’m currently learning **BlockChain**
 
@@ -25,13 +25,13 @@ Programmer | Content Creator | Learner
 
 ### Connect with me:
 
-[<img align="left" alt="softtechgenics.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Sulaiman Majeed | YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />][facebook]
-[<img align="left" alt="Sulaiman Majeed | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Sulaiman Majeed | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Sulaiman Majeed | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/906/906377.png" />][telegram]
-[<img align="left" alt="Sulaiman Majeed | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Sulaiman Majeed | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="center" alt="softtechgenics.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="center" alt="Sulaiman Majeed | YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />][facebook]
+[<img align="center" alt="Sulaiman Majeed | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="center" alt="Sulaiman Majeed | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="center" alt="Sulaiman Majeed | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/906/906377.png" />][telegram]
+[<img align="center" alt="Sulaiman Majeed | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="center" alt="Sulaiman Majeed | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -51,8 +51,6 @@ Programmer | Content Creator | Learner
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 <br />
-### Profile Visitors 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sulaimancodes.visitor-badge&left_color=blue&right_color=yellow)
 <br />
 
 
